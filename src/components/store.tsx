@@ -1,4 +1,4 @@
-import { useState, useEffect, useContext, createContext, useReducer, useCallback, useMemo } from "react";
+import {useEffect, useContext, createContext, useReducer, useCallback, useMemo } from "react";
 // import { CustomHook } from "./components/CustomHook";
 
 interface Pokemon {
